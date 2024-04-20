@@ -6,7 +6,7 @@ creación de  repositorios  y manejo de  markdown
 - viñeta uno
 - viñeta dos
 
-- ```python
+ ```python
 def hola_mundo():
     print("Hola, mundo!")
 
