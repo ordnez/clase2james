@@ -10,6 +10,6 @@ creación de  repositorios  y manejo de  markdown
 def hola_mundo():
     print("Hola, mundo!")
 
- -  [Google](https://www.google.com)
+ [Google](https://www.google.com)
 
 
