@@ -13,7 +13,7 @@ def hola_mundo():
 ## Imágenes
 
 <p align="center">
-<img src="./imagen/chucky.jpg" height="100">
+<img src="./imagen/chucky-serie-muneco-diabolico-syfy-don-mancini-declaraciones-1590136516.jpg" height="100">
 </p>
  [Google](https://www.google.com)
 
