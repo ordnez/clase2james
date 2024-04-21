@@ -21,9 +21,11 @@ def hola_mundo():
 
 ## Imágenes
 
+## Imágenes
+
 <p align="center">
-<img src="imagen.![chucky-serie-muneco-diabolico-syfy-don-mancini-declaraciones-1590136516](https://github.com/ordnez/clase2james/assets/167648075/ed1ee537-7119-49d5-92de-7c049b78bac8)
-="100">
+<img src=".imagen/chucky.jpg" height="100">
 </p>
+
 
 
