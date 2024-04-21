@@ -10,11 +10,7 @@ creación de  repositorios  y manejo de  markdown
 def hola_mundo():
     print("Hola, mundo!")
 ```
-## Imágenes
 
-<p align="center">
-<img src="./imagen/chucky-serie-muneco-diabolico-syfy-don-mancini-declaraciones-1590136516.jpg" height="100">
-</p>
  [Google](https://www.google.com)
 
  ## Tablas
@@ -24,8 +20,12 @@ def hola_mundo():
 | Texto 4      | Texto 5      | Texto 6      |
 
 
+## Imágenes
+
 <p align="center">
-<img src="./imagens/chucky-serie-muneco-diabolico-syfy-don-mancini-declaraciones-1590136516.jpg" height="100">
+<img src="./imagen/chucky-serie-muneco-diabolico-syfy-don-mancini-declaraciones-1590136516.jpg" height="100">
 </p>
+
+
 
 
