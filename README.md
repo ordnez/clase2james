@@ -20,11 +20,8 @@ def hola_mundo():
 | Texto 4      | Texto 5      | Texto 6      |
 
 
-## Imágenes
-
 <p align="center">
-<img src="./imagen/chucky.jpg" height="100">
+<img src="./imagens/chucky.jpg" height="100">
 </p>
-
 
 
