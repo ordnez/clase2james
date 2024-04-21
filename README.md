@@ -10,7 +10,11 @@ creación de  repositorios  y manejo de  markdown
 def hola_mundo():
     print("Hola, mundo!")
 ```
+## Imágenes
 
+<p align="center">
+<img src="./imagen/chucky.jpg" height="100">
+</p>
  [Google](https://www.google.com)
 
  ## Tablas
